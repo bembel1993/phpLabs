@@ -17,3 +17,6 @@ ____
 ### 12. Применение checkbox
 ![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/6_checout.png)
 ____
+### 13. Применение radiobtn
+![Start page of Application](https://github.com/bembel1993/imgForDiplom/blob/main/7_radiobtn.png)
+____
